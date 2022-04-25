@@ -49,6 +49,7 @@ break;
 
 case "clear":
   document.getElementById('exp').value = "";
+  
 break;
 
  case "back":
